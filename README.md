@@ -9,5 +9,5 @@ Eco Fridge is an innovative smart refrigerator that leverages generative AI to e
 * Image Generation: Visualize your meals before you cook. Eco Fridge can create realistic images of the recipes it suggests, giving you a preview of your culinary creations.
 
 # See our Demo Video!
-[![Demo Video](https://gyazo.com/2c39d4d6e4d955f55b0bfd39b9407078![image](https://github.com/Beuro/AI-Fridge---Purple-Team/assets/165536991/5cea65a0-533d-438c-a356-98fefa88a2f9)
+[![Demo Video](https://github.com/Beuro/AI-Fridge---Purple-Team/blob/main/Thumbnail.png
 )](https://drive.google.com/file/d/1yrc8lVTnSOpx2j3ZiqIADOCyWcZQZC3b/view?usp=sharing)
